@@ -6,13 +6,28 @@
 
 ### :pushpin:	Desenvolvimento: 
 
-* Wireframe (Adobe XD)
+* Wireframe
+  * Adobe Xd 
 * HTML
 * CSS
+  * Estilo
+  * Grid
+  * Responsivo
+    * Reset Css
+      * :link: https://meyerweb.com/eric/tools/css/reset/index.html
+    * Normalize Css
+      * :link: http://necolas.github.io/normalize.css/  
 * Javascript
+  * Slides
+    * Simple Slide
+      * :link: https://github.com/origamid/simple-slide
+   * Animações
+     * Simple Anime 
+       * :link: https://github.com/origamid/simple-anime     
 
 ### :trophy:  Seções do site:
 
+* Home
 * Sobre
 * Produtos
 * Portfólio
